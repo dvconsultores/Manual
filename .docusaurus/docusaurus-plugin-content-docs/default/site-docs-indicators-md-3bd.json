@@ -1,0 +1,21 @@
+{
+  "id": "strategy-indicators-reference",
+  "title": "Strategy Indicators Reference",
+  "description": "This document provides a comprehensive reference of the technical indicators used by each strategy across different timeframes in Apolo Dex. Indicators help us measure key aspects of market behavior:",
+  "source": "@site/docs/indicators.md",
+  "sourceDirName": ".",
+  "slug": "/strategy-indicators-reference",
+  "permalink": "/docs/strategy-indicators-reference",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dvconsultores/MockbaManual/tree/main/docs/indicators.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "strategy-indicators-reference",
+    "title": "Strategy Indicators Reference",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar"
+}

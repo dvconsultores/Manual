@@ -1,0 +1,25 @@
+{
+  "id": "doc",
+  "title": "Documentación",
+  "description": "This is the strategy",
+  "source": "@site/docs/doc.md",
+  "sourceDirName": ".",
+  "slug": "/doc",
+  "permalink": "/docs/doc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dvconsultores/MockbaManual/tree/main/docs/doc.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "doc",
+    "title": "Documentación",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Strategy Types and Indicators",
+    "permalink": "/docs/strategy-overview"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "strategy-overview",
+  "title": "Strategy Overview",
+  "description": "This document provides an overview of the trading strategies available in Apolo Dex.",
+  "source": "@site/docs/strategy-overview.md",
+  "sourceDirName": ".",
+  "slug": "/strategy-overview",
+  "permalink": "/docs/strategy-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dvconsultores/MockbaManual/tree/main/docs/strategy-overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Indicator Reference Guide",
+    "permalink": "/docs/indicators-detail"
+  },
+  "next": {
+    "title": "Strategy Overview",
+    "permalink": "/docs/strategy-overview"
+  }
+}

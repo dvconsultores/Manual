@@ -1,0 +1,27 @@
+{
+  "id": "menu-installation/gainers-analysis",
+  "title": "Gainers analysis",
+  "description": "How Gainers Analysis Works and How to Operate",
+  "source": "@site/docs/menu-installation/gainers-analysis.md",
+  "sourceDirName": "menu-installation",
+  "slug": "/menu-installation/gainers-analysis",
+  "permalink": "/docs/menu-installation/gainers-analysis",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dvconsultores/MockbaManual/tree/main/docs/menu-installation/gainers-analysis.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get VPS",
+    "permalink": "/docs/menu-installation/install-app"
+  },
+  "next": {
+    "title": "Elliot Waves analysis",
+    "permalink": "/docs/menu-installation/elliot-waves-analysis"
+  }
+}

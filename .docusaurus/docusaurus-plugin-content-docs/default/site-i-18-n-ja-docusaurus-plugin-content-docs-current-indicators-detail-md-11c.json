@@ -1,0 +1,25 @@
+{
+  "id": "indicators-detail",
+  "title": "インジケーターリファレンスガイド",
+  "description": "このページでは、Apolo Dexの戦略で使用されるすべてのテクニカル指標を説明します。各指標は、トレンド検出、反転ポイントの特定、ボラティリティ測定など、異なる目的に使用されます。",
+  "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indicators-detail.md",
+  "sourceDirName": ".",
+  "slug": "/indicators-detail",
+  "permalink": "/ja/docs/indicators-detail",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dvconsultores/MockbaManual/tree/main/docs/indicators-detail.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "indicators-detail",
+    "title": "インジケーターリファレンスガイド",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "戦略タイプと指標",
+    "permalink": "/ja/docs/indicators"
+  }
+}

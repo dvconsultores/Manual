@@ -1,0 +1,25 @@
+{
+  "id": "indicators-detail",
+  "title": "Indicator Reference Guide",
+  "description": "This page explains all the technical indicators used across the strategies in Apolo Dex. Each indicator serves a different purpose — from detecting trends, to spotting reversals, to measuring volatility.",
+  "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/indicators-detail.md",
+  "sourceDirName": ".",
+  "slug": "/indicators-detail",
+  "permalink": "/es/docs/indicators-detail",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dvconsultores/MockbaManual/tree/main/docs/indicators-detail.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "indicators-detail",
+    "title": "Indicator Reference Guide",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tipos de Estrategias e Indicadores",
+    "permalink": "/es/docs/indicators"
+  }
+}

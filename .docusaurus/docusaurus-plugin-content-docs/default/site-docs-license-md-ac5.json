@@ -1,0 +1,25 @@
+{
+  "id": "license",
+  "title": "License",
+  "description": "1. Introduction",
+  "source": "@site/docs/license.md",
+  "sourceDirName": ".",
+  "slug": "/license",
+  "permalink": "/docs/license",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dvconsultores/MockbaManual/tree/main/docs/license.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "license",
+    "title": "License",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trading Signal and Analysis",
+    "permalink": "/docs/signals"
+  }
+}

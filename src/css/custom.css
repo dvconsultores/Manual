@@ -1,0 +1,36 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #AA5CF8; /* Equivalent to --oui-color-primary */
+  --ifm-color-primary-dark: #9D2E6E; /* Equivalent to --oui-color-primary-darken */
+  --ifm-color-primary-darker: #7B2254; /* Even Darker */
+  --ifm-color-primary-darkest: #5A163A; /* Darkest */
+  --ifm-color-primary-light: #EB738A; /* Equivalent to --oui-color-primary-light */
+  --ifm-color-primary-lighter: #F099A3; /* Lighter */
+  --ifm-color-primary-lightest: #F5BFB9; /* Lightest */
+  --ifm-color-primary-contrast: #FFFFFF; /* Equivalent to --oui-color-primary-contrast */
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #AA5CF8; /* Equivalent to --oui-color-primary */
+  --ifm-color-primary-dark: #9D2E6E; /* Equivalent to --oui-color-primary-darken */
+  --ifm-color-primary-darker: #7B2254; /* Even Darker */
+  --ifm-color-primary-darkest: #5A163A; /* Darkest */
+  --ifm-background-color: #1A1A2E; /* Dark Navy Background */
+  --ifm-background-secondary-color: #16213E; /* Even Darker Background */
+  --ifm-color-text: #E5E5E5; /* Light Gray Text */
+  --ifm-color-text-secondary: #CFCFCF; /* Secondary Text */
+  --ifm-color-link: #AA5CF8; /* Primary Color for Links */
+  --ifm-color-link-hover: #9D2E6E; /* Darker Primary Color for Hover */
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+

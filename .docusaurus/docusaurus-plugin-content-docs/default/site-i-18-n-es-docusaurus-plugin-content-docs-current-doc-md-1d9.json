@@ -1,0 +1,20 @@
+{
+  "id": "doc",
+  "title": "📘 Strategy Types and Indicators",
+  "description": "Esta es la estrategia",
+  "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/doc.md",
+  "sourceDirName": ".",
+  "slug": "/doc",
+  "permalink": "/docs/doc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dvconsultores/MockbaManual/tree/main/docs/doc.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Indicator Reference Guide",
+    "permalink": "/docs/indicators-detail"
+  }
+}

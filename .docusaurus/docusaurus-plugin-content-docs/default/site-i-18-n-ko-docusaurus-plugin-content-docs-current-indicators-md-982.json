@@ -1,0 +1,25 @@
+{
+  "id": "indicators",
+  "title": "전략 유형 및 지표",
+  "description": "Apolo Dex는 수익성 있는 기회를 탐지하기 위해 다양한 논리에 기반한 여러 기술적 분석 전략을 사용합니다. 이 전략들은 5분부터 1일까지의 다양한 시간 프레임에서 작동하며, 각각은 시장 행동을 분석하기 위한 특정 기술적 지표 세트를 활용합니다.",
+  "source": "@site/i18n/ko/docusaurus-plugin-content-docs/current/indicators.md",
+  "sourceDirName": ".",
+  "slug": "/indicators",
+  "permalink": "/ko/docs/indicators",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dvconsultores/MockbaManual/tree/main/docs/indicators.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "indicators",
+    "title": "전략 유형 및 지표",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "지표 참조 가이드",
+    "permalink": "/ko/docs/indicators-detail"
+  }
+}

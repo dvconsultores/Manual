@@ -1,0 +1,25 @@
+{
+  "id": "indicators-detail",
+  "title": "지표 참조 가이드",
+  "description": "이 페이지는 Apolo Dex의 전략 전반에 걸쳐 사용되는 모든 기술적 지표를 설명합니다. 각 지표는 추세 감지, 반전 포착, 변동성 측정 등 서로 다른 목적을 수행합니다.",
+  "source": "@site/i18n/ko/docusaurus-plugin-content-docs/current/indicators-detail.md",
+  "sourceDirName": ".",
+  "slug": "/indicators-detail",
+  "permalink": "/ko/docs/indicators-detail",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dvconsultores/MockbaManual/tree/main/docs/indicators-detail.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "indicators-detail",
+    "title": "지표 참조 가이드",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "전략 유형 및 지표",
+    "permalink": "/ko/docs/indicators"
+  }
+}

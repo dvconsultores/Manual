@@ -1,0 +1,23 @@
+{
+  "id": "menu-options/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Apolo Dex.",
+  "source": "@site/docs/menu-options/congratulations.md",
+  "sourceDirName": "menu-options",
+  "slug": "/menu-options/congratulations",
+  "permalink": "/docs/menu-options/congratulations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dvconsultores/MockbaManual/tree/main/docs/menu-options/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "List Menu",
+    "permalink": "/docs/menu-options/list-menu"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "indicadores",
+  "title": "Strategy Types and Indicators",
+  "description": "Apolo Dex uses multiple technical analysis strategies, each based on a different logic to detect profitable opportunities. These strategies operate across various timeframes (from 5 minutes to 1 day) and use specific sets of technical indicators to analyze market behavior.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/indicators-detail.md",
+  "sourceDirName": ".",
+  "slug": "/indicadores",
+  "permalink": "/docs/indicadores",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dvconsultores/MockbaManual/tree/main/docs/indicators-detail.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "indicadores",
+    "title": "Strategy Types and Indicators",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Strategy Types and Indicators",
+    "permalink": "/docs/indicators"
+  }
+}
