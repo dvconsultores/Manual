@@ -1,0 +1,20 @@
+{
+  "id": "strategy-indicators-reference",
+  "title": "策略指标参考",
+  "description": "本文档详细介绍了 Apolo Dex 在不同时间框架内每种策略所使用的技术指标。这些指标帮助我们衡量市场行为的关键方面：",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/indicators.md",
+  "sourceDirName": ".",
+  "slug": "/strategy-indicators-reference",
+  "permalink": "/zh/docs/strategy-indicators-reference",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "strategy-indicators-reference",
+    "title": "策略指标参考",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "strategy-indicators-reference",
+  "title": "Strategie Indicatoren Referentie",
+  "description": "Dit document biedt een uitgebreid overzicht van de technische indicatoren die door elke strategie in verschillende tijdsbestekken binnen Apolo Dex worden gebruikt. Indicatoren helpen ons om belangrijke aspecten van markgedrag te meten:",
+  "source": "@site/i18n/nl/docusaurus-plugin-content-docs/current/indicators.md",
+  "sourceDirName": ".",
+  "slug": "/strategy-indicators-reference",
+  "permalink": "/nl/docs/strategy-indicators-reference",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "strategy-indicators-reference",
+    "title": "Strategie Indicatoren Referentie",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,18 +1,18 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/zh/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/zh/docs",
           "mainDocId": "strategy-indicators-reference",
           "docs": [
             {
               "id": "strategy-indicators-reference",
-              "path": "/docs/strategy-indicators-reference",
+              "path": "/zh/docs/strategy-indicators-reference",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -20,7 +20,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/strategy-indicators-reference",
+                "path": "/zh/docs/strategy-indicators-reference",
                 "label": "strategy-indicators-reference"
               }
             }

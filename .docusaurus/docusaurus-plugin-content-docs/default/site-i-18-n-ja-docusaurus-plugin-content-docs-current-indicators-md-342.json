@@ -1,25 +1,20 @@
 {
-  "id": "indicators",
-  "title": "戦略タイプと指標",
-  "description": "Apolo Dexは、収益機会を検出するための異なるロジックに基づいた複数のテクニカル分析戦略を使用します。これらの戦略は5分から1日までの異なる時間枠で動作し、それぞれが市場行動を分析するための特定のテクニカル指標セットを使用します。",
+  "id": "strategy-indicators-reference",
+  "title": "戦略指標リファレンス",
+  "description": "このドキュメントでは、Apolo Dexで使用される各戦略のタイムフレームごとのテクニカル指標を包括的に解説します。これらの指標は、市場の挙動を測定するために使用されます：",
   "source": "@site/i18n/ja/docusaurus-plugin-content-docs/current/indicators.md",
   "sourceDirName": ".",
-  "slug": "/indicators",
-  "permalink": "/ja/docs/indicators",
+  "slug": "/strategy-indicators-reference",
+  "permalink": "/ja/docs/strategy-indicators-reference",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/dvconsultores/MockbaManual/tree/main/docs/indicators.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "id": "indicators",
-    "title": "戦略タイプと指標",
+    "id": "strategy-indicators-reference",
+    "title": "戦略指標リファレンス",
     "sidebar_position": 1
   },
-  "sidebar": "tutorialSidebar",
-  "next": {
-    "title": "インジケーターリファレンスガイド",
-    "permalink": "/ja/docs/indicators-detail"
-  }
+  "sidebar": "tutorialSidebar"
 }

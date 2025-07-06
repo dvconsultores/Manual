@@ -19,8 +19,11 @@ const config: Config = {
 
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'es', 'fr', 'ja', 'ko', 'vi', 'zh'],
+    locales: ['de', 'en', 'es', 'fr', 'it', 'ja', 'ko', 'nl', 'pl', 'pt', 'ru', 'tr', 'uk', 'vi', 'zh'],
     localeConfigs: {
+      de: {
+        label: 'Deutsch',
+      },
       en: {
         label: 'English',
       },
@@ -30,11 +33,32 @@ const config: Config = {
       fr: {
         label: 'Français',
       },
+      it: {
+        label: 'Italiano',
+      },
       ja: {
         label: '日本語',
       },
       ko: {
         label: '한국어',
+      },
+      nl: {
+        label: 'Nederlands',
+      },
+      pl: {
+        label: 'Polski',
+      },
+      pt: {
+        label: 'Português',
+      },
+      ru: {
+        label: 'Русский',
+      },
+      tr: {
+        label: 'Türkçe',
+      },
+      uk: {
+        label: 'Українська',
       },
       vi: {
         label: 'Tiếng Việt',
@@ -51,7 +75,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/dvconsultores/MockbaManual/tree/main/',
+          editUrl: undefined,
         },
         blog: {
           showReadingTime: true,
@@ -60,7 +84,7 @@ const config: Config = {
             xslt: true,
           },
           editUrl:
-            'https://github.com/Mockba-Bot/Manual/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            undefined,
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',

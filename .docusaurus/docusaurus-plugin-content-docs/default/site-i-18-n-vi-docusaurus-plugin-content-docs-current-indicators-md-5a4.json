@@ -1,0 +1,20 @@
+{
+  "id": "strategy-indicators-reference",
+  "title": "Tham chiếu Chỉ báo Chiến lược",
+  "description": "Tài liệu này cung cấp bảng tham chiếu đầy đủ các chỉ báo kỹ thuật được sử dụng trong từng chiến lược theo các khung thời gian khác nhau trên Apolo Dex. Các chỉ báo giúp đo lường những khía cạnh quan trọng của hành vi thị trường:",
+  "source": "@site/i18n/vi/docusaurus-plugin-content-docs/current/indicators.md",
+  "sourceDirName": ".",
+  "slug": "/strategy-indicators-reference",
+  "permalink": "/vi/docs/strategy-indicators-reference",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "strategy-indicators-reference",
+    "title": "Tham chiếu Chỉ báo Chiến lược",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar"
+}

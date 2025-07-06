@@ -1,0 +1,20 @@
+{
+  "id": "strategy-indicators-reference",
+  "title": "Stratejiye Göre Göstergeler Referansı",
+  "description": "Bu belge, Apolo Dex’teki her strateji için farklı zaman dilimlerinde kullanılan teknik göstergelerin kapsamlı bir referansını sunar. Göstergeler, piyasa davranışının kilit yönlerini ölçmemize yardımcı olur:",
+  "source": "@site/i18n/tr/docusaurus-plugin-content-docs/current/indicators.md",
+  "sourceDirName": ".",
+  "slug": "/strategy-indicators-reference",
+  "permalink": "/tr/docs/strategy-indicators-reference",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "strategy-indicators-reference",
+    "title": "Stratejiye Göre Göstergeler Referansı",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar"
+}

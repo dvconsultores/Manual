@@ -1,0 +1,20 @@
+{
+  "id": "strategy-indicators-reference",
+  "title": "Riferimento Indicatori per Strategia",
+  "description": "Questo documento fornisce un riferimento completo agli indicatori tecnici utilizzati da ciascuna strategia in diversi timeframe su Apolo Dex. Gli indicatori ci aiutano a misurare aspetti chiave del comportamento del mercato:",
+  "source": "@site/i18n/it/docusaurus-plugin-content-docs/current/indicators.md",
+  "sourceDirName": ".",
+  "slug": "/strategy-indicators-reference",
+  "permalink": "/it/docs/strategy-indicators-reference",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "strategy-indicators-reference",
+    "title": "Riferimento Indicatori per Strategia",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar"
+}

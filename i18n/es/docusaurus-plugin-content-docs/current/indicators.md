@@ -3,7 +3,7 @@
 id: strategy-indicators-reference
 title: Referencia de Indicadores por Estrategia
 sidebar_position: 1
----
+
 
 # 📊 Referencia de Indicadores por Estrategia
 

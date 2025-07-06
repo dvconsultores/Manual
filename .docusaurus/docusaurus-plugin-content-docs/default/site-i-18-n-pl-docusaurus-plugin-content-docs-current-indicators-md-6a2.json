@@ -1,0 +1,20 @@
+{
+  "id": "strategy-indicators-reference",
+  "title": "Referencja Wskaźników Strategii",
+  "description": "Ten dokument zawiera kompleksowe zestawienie wskaźników technicznych używanych w każdej strategii w różnych ramach czasowych na platformie Apolo Dex. Wskaźniki pomagają nam mierzyć kluczowe aspekty zachowania rynku:",
+  "source": "@site/i18n/pl/docusaurus-plugin-content-docs/current/indicators.md",
+  "sourceDirName": ".",
+  "slug": "/strategy-indicators-reference",
+  "permalink": "/pl/docs/strategy-indicators-reference",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "strategy-indicators-reference",
+    "title": "Referencja Wskaźników Strategii",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar"
+}

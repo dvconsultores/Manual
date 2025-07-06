@@ -1,17 +1,32 @@
 {
   "defaultLocale": "en",
   "locales": [
+    "de",
     "en",
     "es",
     "fr",
+    "it",
     "ja",
     "ko",
+    "nl",
+    "pl",
+    "pt",
+    "ru",
+    "tr",
+    "uk",
     "vi",
     "zh"
   ],
   "path": "i18n",
-  "currentLocale": "en",
+  "currentLocale": "zh",
   "localeConfigs": {
+    "de": {
+      "label": "Deutsch",
+      "direction": "ltr",
+      "htmlLang": "de",
+      "calendar": "gregory",
+      "path": "de"
+    },
     "en": {
       "label": "English",
       "direction": "ltr",
@@ -33,6 +48,13 @@
       "calendar": "gregory",
       "path": "fr"
     },
+    "it": {
+      "label": "Italiano",
+      "direction": "ltr",
+      "htmlLang": "it",
+      "calendar": "gregory",
+      "path": "it"
+    },
     "ja": {
       "label": "日本語",
       "direction": "ltr",
@@ -46,6 +68,48 @@
       "htmlLang": "ko",
       "calendar": "gregory",
       "path": "ko"
+    },
+    "nl": {
+      "label": "Nederlands",
+      "direction": "ltr",
+      "htmlLang": "nl",
+      "calendar": "gregory",
+      "path": "nl"
+    },
+    "pl": {
+      "label": "Polski",
+      "direction": "ltr",
+      "htmlLang": "pl",
+      "calendar": "gregory",
+      "path": "pl"
+    },
+    "pt": {
+      "label": "Português",
+      "direction": "ltr",
+      "htmlLang": "pt",
+      "calendar": "gregory",
+      "path": "pt"
+    },
+    "ru": {
+      "label": "Русский",
+      "direction": "ltr",
+      "htmlLang": "ru",
+      "calendar": "gregory",
+      "path": "ru"
+    },
+    "tr": {
+      "label": "Türkçe",
+      "direction": "ltr",
+      "htmlLang": "tr",
+      "calendar": "gregory",
+      "path": "tr"
+    },
+    "uk": {
+      "label": "Українська",
+      "direction": "ltr",
+      "htmlLang": "uk",
+      "calendar": "gregory",
+      "path": "uk"
     },
     "vi": {
       "label": "Tiếng Việt",

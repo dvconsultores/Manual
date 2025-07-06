@@ -8,24 +8,36 @@ export default {
   "tagline": "Trade Happy",
   "favicon": "img/favicon.ico",
   "url": "https://MockbaBot.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/zh/",
   "organizationName": "Manual",
   "projectName": "Manual",
   "deploymentBranch": "gh-pages",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
+      "de",
       "en",
       "es",
       "fr",
+      "it",
       "ja",
       "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "tr",
+      "uk",
       "vi",
       "zh"
     ],
     "localeConfigs": {
+      "de": {
+        "label": "Deutsch",
+        "direction": "ltr"
+      },
       "en": {
         "label": "English",
         "direction": "ltr"
@@ -38,12 +50,40 @@ export default {
         "label": "Français",
         "direction": "ltr"
       },
+      "it": {
+        "label": "Italiano",
+        "direction": "ltr"
+      },
       "ja": {
         "label": "日本語",
         "direction": "ltr"
       },
       "ko": {
         "label": "한국어",
+        "direction": "ltr"
+      },
+      "nl": {
+        "label": "Nederlands",
+        "direction": "ltr"
+      },
+      "pl": {
+        "label": "Polski",
+        "direction": "ltr"
+      },
+      "pt": {
+        "label": "Português",
+        "direction": "ltr"
+      },
+      "ru": {
+        "label": "Русский",
+        "direction": "ltr"
+      },
+      "tr": {
+        "label": "Türkçe",
+        "direction": "ltr"
+      },
+      "uk": {
+        "label": "Українська",
         "direction": "ltr"
       },
       "vi": {
@@ -62,8 +102,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/dvconsultores/MockbaManual/tree/main/"
+          "sidebarPath": "./sidebars.ts"
         },
         "blog": {
           "showReadingTime": true,
@@ -74,7 +113,6 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/Mockba-Bot/Manual/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
           "onUntruncatedBlogPosts": "warn"

@@ -1,25 +1,20 @@
 {
-  "id": "indicators",
-  "title": "Types de Stratégies et Indicateurs",
-  "description": "Le Apolo Dex utilise plusieurs stratégies d'analyse technique, chacune basée sur une logique différente pour détecter des opportunités rentables. Ces stratégies opèrent sur différents intervalles de temps (de 5 minutes à 1 jour) et utilisent des ensembles spécifiques d'indicateurs techniques pour analyser le comportement du marché.",
+  "id": "strategy-indicators-reference",
+  "title": "Référence des Indicateurs par Stratégie",
+  "description": "Ce document fournit une référence complète des indicateurs techniques utilisés par chaque stratégie sur différents horizons temporels dans Apolo Dex. Les indicateurs nous aident à mesurer des aspects clés du comportement du marché :",
   "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/indicators.md",
   "sourceDirName": ".",
-  "slug": "/indicators",
-  "permalink": "/fr/docs/indicators",
+  "slug": "/strategy-indicators-reference",
+  "permalink": "/fr/docs/strategy-indicators-reference",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/dvconsultores/MockbaManual/tree/main/docs/indicators.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "id": "indicators",
-    "title": "Types de Stratégies et Indicateurs",
+    "id": "strategy-indicators-reference",
+    "title": "Référence des Indicateurs par Stratégie",
     "sidebar_position": 1
   },
-  "sidebar": "tutorialSidebar",
-  "next": {
-    "title": "Guide de Référence des Indicateurs",
-    "permalink": "/fr/docs/indicators-detail"
-  }
+  "sidebar": "tutorialSidebar"
 }
