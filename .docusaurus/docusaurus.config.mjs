@@ -8,7 +8,7 @@ export default {
   "tagline": "Trade Happy",
   "favicon": "img/favicon.ico",
   "url": "https://MockbaBot.github.io",
-  "baseUrl": "/zh/",
+  "baseUrl": "/",
   "organizationName": "Manual",
   "projectName": "Manual",
   "deploymentBranch": "gh-pages",

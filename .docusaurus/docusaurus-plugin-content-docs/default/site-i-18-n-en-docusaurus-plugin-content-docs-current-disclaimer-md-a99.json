@@ -1,0 +1,24 @@
+{
+  "id": "terms_of_use",
+  "title": "Terms of Use – Apolo DEX",
+  "description": "1. Definitions",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/disclaimer.md",
+  "sourceDirName": ".",
+  "slug": "/terms_of_use",
+  "permalink": "/docs/terms_of_use",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "terms_of_use",
+    "title": "Terms of Use – Apolo DEX",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Strategy Indicators Reference",
+    "permalink": "/docs/strategy-indicators-reference"
+  }
+}

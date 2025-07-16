@@ -16,5 +16,9 @@
     "title": "Strategy Indicators Reference",
     "sidebar_position": 1
   },
-  "sidebar": "tutorialSidebar"
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Terms of Use – Apolo DEX",
+    "permalink": "/docs/terms_of_use"
+  }
 }
